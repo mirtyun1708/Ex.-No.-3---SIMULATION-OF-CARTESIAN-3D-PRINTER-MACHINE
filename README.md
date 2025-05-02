@@ -58,7 +58,6 @@
 
 
 ## Output:
-
 ![Screenshot 2025-05-02 102940](https://github.com/user-attachments/assets/86508975-28db-4769-a3f1-026bcb4faf31)
 
 
